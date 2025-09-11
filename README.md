@@ -8,17 +8,14 @@ The best run so far is Surya.
 
 PDFs from:
 
-**First Edition:**
+## **First Edition:**
 - Volume I (Surya-OCR-Run)
     - A treatise on electricity and magnetism
     - https://archive.org/details/electricandmagne01maxwrich
 
-
-
 - Volume II (Surya-OCR-Run)
     - A treatise on electricity and magnetism
     - https://archive.org/details/electricandmag02maxwrich
-
 
 
     (Pending)
@@ -27,7 +24,7 @@ PDFs from:
 
 
 
-**Second Edition:**
+## **Second Edition:**
 - Volume I 
     (Pending)
     - https://archive.org/details/atreatiseonelec06maxwgoog
@@ -38,17 +35,15 @@ PDFs from:
 
 
 
-**Third Edition:**
+## **Third Edition:**
 - Volume I
-    (Pending)
+    - https://archive.org/details/dli.ernet.15773/
 
 - Volume II
-    (Pending)
-    - https://archive.org/details/atreatiseonelec02maxwgoog
-    - https://archive.org/details/atreatiseonelec00maxwgoog
+    - https://archive.org/details/dli.ernet.15774/
 
 
-
+### Packages Used: 
 Dolphin: 
 https://github.com/bytedance/Dolphin
 
