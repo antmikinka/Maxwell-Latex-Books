@@ -32,10 +32,17 @@ PDFs from:
 ## **Third Edition:**
 - [Volume I](https://github.com/antmikinka/Maxwell-Latex-Books/blob/main/Third%20Edition/Surya-OCR-Run-3/v3%20-%20Vol%201/15773-A%20Treatise%20On%20Electricity%20And%20Magnetism%20Vol-i.md)
     - https://archive.org/details/dli.ernet.15773/
+    - [ ] fix all equations
+    - [ ] 5424 to fix
+    - [ ] review all equations match the book
+    - [ ] 5424 to validate
 
 - [Volume II](https://github.com/antmikinka/Maxwell-Latex-Books/blob/main/Third%20Edition/Surya-OCR-Run-3/v3%20-%20Vol%202/15774-A%20Treatise%20On%20Electricity%20And%20Magnetism%20Vol-ii.md)
     - https://archive.org/details/dli.ernet.15774/
-
+    - [ ] fix all equations
+    - [ ] 4795 to fix
+    - [ ] review all equations match the book
+    - [ ] 4795 to validate
 
 ### Packages Used: 
 Dolphin: 
